@@ -40,6 +40,8 @@ colors:
     card-shadow: rgba(0, 0, 0, 0.4)
     link-hover: "#BF616A"
 
+# colors from Nord theme: https://github.com/arcticicestudio/nord
+
 # Optional message
 # message:
   #url: https://b4bz.io
